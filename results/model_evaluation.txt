@@ -1,0 +1,9 @@
+$Confusion_Matrix
+      Predicted
+Actual   0   1
+     0 427  61
+     1 112 152
+
+$Accuracy
+[1] 76.99468
+

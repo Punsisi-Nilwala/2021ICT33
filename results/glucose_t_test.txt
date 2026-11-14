@@ -1,0 +1,12 @@
+
+	Welch Two Sample t-test
+
+data:  Glucose by Outcome
+t = -14.884, df = 466.02, p-value < 2.2e-16
+alternative hypothesis: true difference in means between group 0 and group 1 is not equal to 0
+95 percent confidence interval:
+ -35.85757 -27.49380
+sample estimates:
+mean in group 0 mean in group 1 
+       110.6439        142.3195 
+
