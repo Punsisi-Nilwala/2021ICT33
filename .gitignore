@@ -1,4 +1,26 @@
-.Rproj.user
+# RStudio files
+.Rproj.user/
 .Rhistory
 .RData
 .Ruserdata
+
+# R application files
+.Rapp.history
+.RDataTmp
+
+# Environment variables and tokens
+.Renviron
+.env
+.httr-oauth
+
+# R Markdown temporary files
+*_cache/
+*.utf8.md
+*.knit.md
+
+# R build files
+*.tar.gz
+*.Rcheck/
+
+# Temporary files
+*~
