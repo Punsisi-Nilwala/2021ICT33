@@ -272,6 +272,28 @@ It incorrectly classified 15 non-diabetic individuals as diabetic and 21 diabeti
 
 Overall, the results indicate that logistic regression can provide a useful baseline for diabetes classification using the selected clinical measurements.
 
+### 4.7 Data Visualizations
+
+**Figure 1: Distribution of Diabetes Outcomes**
+
+![Diabetes Outcome Distribution](figures/outcome_distribution.png)
+
+**Figure 2: Distribution of Glucose Levels**
+
+![Glucose Distribution](figures/glucose_distribution.png)
+
+**Figure 3: Glucose Levels by Diabetes Status**
+
+![Glucose by Diabetes Status](figures/glucose_by_diabetes.png)
+
+**Figure 4: BMI Distribution**
+
+![BMI Distribution](figures/bmi_distribution.png)
+
+**Figure 5: Correlation Heatmap**
+
+![Correlation Heatmap](figures/correlation_heatmap.png)
+
 ## 5. Discussion
 
 The analysis provided several useful findings about the relationship between clinical measurements and diabetes status in the Pima Indians Diabetes Dataset.
