@@ -166,3 +166,9 @@ capture.output(
   ),
   file = "results/test_evaluation.txt"
 )
+
+
+# Final evaluation:
+# Model performance was evaluated using an independent 20% test dataset.
+# The final test accuracy was 76.16%.
+# The confusion matrix is saved in results/test_evaluation.txt.
